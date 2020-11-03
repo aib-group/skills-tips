@@ -24,7 +24,8 @@ rm fcitx-frontend-qt5-rstudio_1.0.5-1ubuntu1~qt542_amd64.deb fcitx-qt5-rstudio-q
 
 #更新(2020-11-3)
 #R：`4.0.2`, RStudio: `Version 1.3.1073`
-```# 关闭 R 和 RStudio, 执行下列命令：
+```
+# 关闭 R 和 RStudio, 执行下列命令：
 sudo apt install -y fcitx-frontend-qt5
 sudo ln -s /usr/lib/x86_64-linux-gnu/qt5/plugins/platforminputcontexts/libfcitxplatforminputcontextplugin.so /usr/lib/rstudio/plugins/platforminputcontexts/
 # Enjoy
