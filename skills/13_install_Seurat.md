@@ -14,5 +14,5 @@ sudo apt-get install libssl-dev
 ### install and restart
 
 ## RcppTOML失败(方法二：好使)
-###library(devtools)
-###install_version(package = "RcppTOML",version = "0.0.4")
+### library(devtools)
+### install_version(package = "RcppTOML",version = "0.0.4")
