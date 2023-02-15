@@ -12,3 +12,5 @@
 ## [11.安装trim_galore（二代测序去接头软件）](https://github.com/aib-group/skills-tips/blob/main/skills/11_install_trim_galore.md)
 ## [12.R语言中XML依赖](https://github.com/aib-group/skills-tips/blob/main/skills/12_install_R_packages_errors.md)
 ## [13.Ubuntu安装R包Seurat遇到的坑](https://github.com/aib-group/skills-tips/blob/main/skills/13_install_Seurat.md)
+## [14.建立服务器jupyterlab连接.md](https://github.com/aib-group/skills-tips/blob/main/skills/14_建立服务器jupyterlab连接.md)
+## [15.双细胞软件安装.md](https://github.com/aib-group/skills-tips/blob/main/skills/15_双细胞软件安装.md)
